@@ -16,8 +16,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/101EZvTPmh6BpElvv2w8ctKM4NEtTW1Gu/view?usp=sharing](https://drive.google.com/file/d/101EZvTPmh6BpElvv2w8ctKM4NEtTW1Gu/view?usp=sharing)
 
 - ⚡ Fun fact **# Computer Science # PCMB # Web Devloper # PHP**
- # 💫 About Me:
-🔭 I’m currently working on Code Sphere<br><br>🌱 I’m currently learning C++, DBMS, WEB DEV<br><br>👨‍💻 All of my projects are available at https://www.linkedin.com/in/shayan-sarkar/<br><br>💬 Ask me about PHP, WordPress<br><br>📫 How to reach me sroy52649@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/101EZvTPmh6BpElvv2w8ctKM4NEtTW1Gu/view?usp=sharing<br><br>⚡ Fun fact # Computer Science # PCMB # Web Devloper # PHP
+
 
 
 ## 🌐 Socials:
