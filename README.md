@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sroy52649@gmail.com**
 
-- 📄 Know about my experiences [https://shayansarkar-portfolio.netlify.app/](https://shayansarkar-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://shayansarkar-portfolio.xo.je/)
 
 - ⚡ Fun fact **# Computer Science # PCMB # Web Devloper # PHP**
 
