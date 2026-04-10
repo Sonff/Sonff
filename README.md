@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, DBMS, WEB DEV**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shayan-sarkar/](https://www.linkedin.com/in/shayan-sarkar/)
+- 👨‍💻 All of my projects are available at (https://www.linkedin.com/in/shayan-sarkar/](https://www.linkedin.com/in/shayan-sarkar/)
 
 - 💬 Ask me about **PHP, WordPress**
 
